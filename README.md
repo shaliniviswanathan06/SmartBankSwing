@@ -64,7 +64,7 @@ GUI balance summary on login
 
 ---
 
-## 🖼 Screenshots
+## 🖼 screenshots
 
 ### 🔐 Login Page
 ![Login Page](screenshots/LoginPage.png)
