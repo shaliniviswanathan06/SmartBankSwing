@@ -64,28 +64,28 @@ GUI balance summary on login
 
 ---
 
-## 🖼 Screenshots
+## 🖼 screenshots
 
 ### 🔐 Login Page
-![Login Page](Screenshots/LoginPage.png)
+![Login Page](screenshots/LoginPage.png)
 
 ### 📝 Create Account
-![Create Account](Screenshots/CreateAccountPage.png)
+![Create Account](screenshots/CreateAccountPage.png)
 
 ### 🧭 Main Menu
-![Main Menu](Screenshots/MainMenuPage.png)
+![Main Menu](screenshots/MainMenuPage.png)
 
 ### 💰 Deposit
-![Deposit](Screenshots/Deposit_Before.png)
+![Deposit](screenshots/Deposit_Before.png)
 
 ### ✅ Deposit Success
-![Deposit Success](Screenshots/Deposit_After.png)
+![Deposit Success](screenshots/Deposit_After.png)
 
 ### 💸 Withdraw
-![Withdraw](Screenshots/Withdraw_Before.png)
+![Withdraw](screenshots/Withdraw_Before.png)
 
 ### ✅ Withdraw Success
-![Withdraw Success](Screenshots/Withdraw_After.png)
+![Withdraw Success](screenshots/Withdraw_After.png)
 
 ### 📊 Balance Check
-![Balance](Screenshots/Balance_Final.png)
+![Balance](screenshots/Balance_Final.png)
