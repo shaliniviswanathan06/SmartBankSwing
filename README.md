@@ -75,9 +75,6 @@ GUI balance summary on login
 ### 🧭 Main Menu
 ![Main Menu](screenshots/MainMenuPage.png)
 
-### 💰 Deposit
-![Deposit](screenshots/Deposit_Before.png)
-
 ### ✅ Deposit Success
 ![Deposit Success](screenshots/Deposit_After.png)
 
